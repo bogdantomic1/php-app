@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="submit"],
+select {
+    margin-bottom: 10px;
+}
+
+.zadatak {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.naslov {
+    font-weight: bold;
+}
+
+.komentar {
+    margin-top: 10px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
+.komentar .naslov {
+    font-weight: bold;
+}
